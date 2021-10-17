@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bigarnold
 - 👀 I’m interested in data
 - 🌱 I’m currently learning ML/AI, JavaScript, Cloud/DevOps stuff, honing Python skills
-- 💞️ I’m looking for new and exciting work opportunities in data analysis, visualization and modelling
+- 💞️ I’m looking for new and exciting work opportunities in data analysis, visualization and modeling
 - 📫 I can be reached with a PM here or at burddylan@gmail.com
 
 <!---
