@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bigarnold
-- 👀 I’m interested in data
-- 🌱 I’m currently learning ML/AI, JavaScript, Cloud/DevOps stuff, honing Python skills
-- 💞️ I’m looking for new and exciting work opportunities in data analysis, visualization and modeling
-- 📫 I can be reached at burddylan@gmail.com
+Top skills are Python and MySQL
+Currently studying Linux, DevOps, Network Security
+Looking for work opportunities in data analysis, reporting, visualization and modeling
+Can be reached at burddylan@gmail.com
 
 <!---
 bigarnold/bigarnold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
