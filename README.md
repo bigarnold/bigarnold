@@ -2,7 +2,6 @@
 # Data integration 
 # Analysis with Python
 # Reporting with BI tools
-# Currently studying Network Security
 # Check out my used cars price calculator repo for a demonstration of my Jupyter Notebook data science workflow
 
 <!---
